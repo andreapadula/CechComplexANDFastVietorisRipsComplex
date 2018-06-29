@@ -1,0 +1,74 @@
+
+===========0.25===========
+Small
+[FastVietorisRipsComplex] Graph processed in 0.000121832 s.
+[FastVietorisRipsComplex] VR processed in 0.0028739 s.
+[FastVietorisRipsComplex] FastVietorisRipsComplex done in 0.00301981 s.
+
+Torus
+[FastVietorisRipsComplex] Graph processed in 0.029047 s.
+[FastVietorisRipsComplex] VR processed in 0.033747 s.
+[FastVietorisRipsComplex] FastVietorisRipsComplex done in 0.0628259 s.
+
+Dragon
+[FastVietorisRipsComplex] Graph processed in 32.6725 s.
+[FastVietorisRipsComplex] VR processed in 0.0166841 s.
+[FastVietorisRipsComplex] FastVietorisRipsComplex done in 32.6892 s.
+
+Sine
+[FastVietorisRipsComplex] Graph processed in 61.2378 s.
+
+
+Annoluls
+[FastVietorisRipsComplex] Graph processed in 0.00471497 s.
+[FastVietorisRipsComplex] VR processed in 16.8266 s.
+[FastVietorisRipsComplex] FastVietorisRipsComplex done in 16.8314 s.
+
+Shape2
+[FastVietorisRipsComplex] Graph processed in 7.76977 s.
+
+=============0.5==========
+
+Dragon
+[FastVietorisRipsComplex] Graph processed in 31.9644 s.
+[FastVietorisRipsComplex] VR processed in 0.435333 s.
+[FastVietorisRipsComplex] FastVietorisRipsComplex done in 32.3998 s.
+
+Small
+[FastVietorisRipsComplex] Graph processed in 0.000187874 s.
+[FastVietorisRipsComplex] VR processed in 0.068846 s.
+[FastVietorisRipsComplex] FastVietorisRipsComplex done in 0.0690699 s.
+
+Torus
+[FastVietorisRipsComplex] Graph processed in 0.039587 s.
+[FastVietorisRipsComplex] VR processed in 3.62375 s.
+[FastVietorisRipsComplex] FastVietorisRipsComplex done in 3.66337 s.
+Annulus
+[FastVietorisRipsComplex] Graph processed in 0.00487804 s.
+[FastVietorisRipsComplex] VR processed in 206.992 s.
+[FastVietorisRipsComplex] FastVietorisRipsComplex done in 206.997 s.
+
+
+======================0.7===========
+Annulus
+[FastVietorisRipsComplex] Graph processed in 0.00521803 s.
+[FastVietorisRipsComplex] VR processed in 1000.36 s.
+[FastVietorisRipsComplex] FastVietorisRipsComplex done in 1000.37 s.
+
+
+Torus 
+[FastVietorisRipsComplex] Graph processed in 0.0363979 s.
+[FastVietorisRipsComplex] VR processed in 30.1933 s.
+[FastVietorisRipsComplex] FastVietorisRipsComplex done in 30.2297 s.
+
+Small
+[FastVietorisRipsComplex] Graph processed in 0.00020504 s.
+[FastVietorisRipsComplex] VR processed in 0.25498 s.
+[FastVietorisRipsComplex] FastVietorisRipsComplex done in 0.255219 s.
+
+Dragon
+[FastVietorisRipsComplex] Graph processed in 30.1378 s.
+[FastVietorisRipsComplex] VR processed in 2.99969 s.
+[FastVietorisRipsComplex] FastVietorisRipsComplex done in 33.1375 s.
+
+

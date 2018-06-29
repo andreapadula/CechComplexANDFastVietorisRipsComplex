@@ -1,0 +1,78 @@
+============0.2=======
+
+Torus
+[ttkVietorisRipsComplex] Graph processed in 0.0483129 s.
+[ttkVietorisRipsComplex] VR processed in 0.511968 s.
+[ttkVietorisRipsComplex] ttkVietorisRipsComplex done in 0.560344 s.
+
+
+Small 
+[ttkVietorisRipsComplex] Graph processed in 0.000355005 s.
+[ttkVietorisRipsComplex] VR processed in 0.00410986 s.
+[ttkVietorisRipsComplex] ttkVietorisRipsComplex done in 0.00449014 s.
+
+
+Dragon
+[ttkVietorisRipsComplex] Graph processed in 47.1484 s.
+[ttkVietorisRipsComplex] VR processed in 38.9967 s.
+[ttkVietorisRipsComplex] ttkVietorisRipsComplex done in 85.9368 s.
+
+Sine
+[ttkVietorisRipsComplex] Graph processed in 135.83 s.
+[ttkVietorisRipsComplex] VR processed in 228.9967 s.
+[ttkVietorisRipsComplex] ttkVietorisRipsComplex done in 363.9368 s.
+
+Annuls
+[ttkVietorisRipsComplex] Graph processed in 0.0150008 s.
+[ttkVietorisRipsComplex] VR processed in 8.30885 s.
+[ttkVietorisRipsComplex] ttkVietorisRipsComplex done in 8.3239 s.
+
+shape2
+[ttkVietorisRipsComplex] Graph processed in 113.884 s
+
+================0.5
+
+Annulus
+[ttkVietorisRipsComplex] Graph processed in 0.0254672 s.
+[ttkVietorisRipsComplex] VR processed in 72.8653 s.
+[ttkVietorisRipsComplex] ttkVietorisRipsComplex done in 72.8908 s.
+
+Torus
+[ttkVietorisRipsComplex] Graph processed in 0.0561311 s.
+[ttkVietorisRipsComplex] VR processed in 9.22684 s.
+[ttkVietorisRipsComplex] ttkVietorisRipsComplex done in 9.28303 s.
+
+Small
+[ttkVietorisRipsComplex] Graph processed in 0.000667095 s.
+[ttkVietorisRipsComplex] VR processed in 0.0452971 s.
+[ttkVietorisRipsComplex] ttkVietorisRipsComplex done in 0.0459988 s.
+
+Dragon 
+[ttkVietorisRipsComplex] Graph processed in 46.4104 s.
+[ttkVietorisRipsComplex] VR processed in 232.611 s.
+[ttkVietorisRipsComplex] ttkVietorisRipsComplex done in 279.022 s.
+
+=================================0.7
+Small 
+[ttkVietorisRipsComplex] Graph processed in 0.000972033 s.
+[ttkVietorisRipsComplex] VR processed in 0.136023 s.
+[ttkVietorisRipsComplex] ttkVietorisRipsComplex done in 0.137051 s.
+
+Torus
+[ttkVietorisRipsComplex] Graph processed in 0.071723 s.
+[ttkVietorisRipsComplex] VR processed in 40.4714 s.
+[ttkVietorisRipsComplex] ttkVietorisRipsComplex done in 40.5432 s.
+
+
+Dragon
+[ttkVietorisRipsComplex] Graph processed in 47.1226 s.
+[ttkVietorisRipsComplex] VR processed in 751.446 s.
+[ttkVietorisRipsComplex] ttkVietorisRipsComplex done in 798.568 s.
+
+Annulus
+[ttkVietorisRipsComplex] Graph processed in 0.0397351 s.
+[ttkVietorisRipsComplex] VR processed in 342.01 s.
+[ttkVietorisRipsComplex] ttkVietorisRipsComplex done in 342.054 s.
+
+
+

@@ -1,0 +1,3 @@
+ttk_add_baseCode_package(fastVietorisRipsComplex)
+
+ttk_add_source("ttkFastVietorisRipsComplex.cpp")
